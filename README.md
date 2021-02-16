@@ -15,9 +15,9 @@ The dataset used is available here : https://www.kaggle.com/shubhamjoshi2130of/a
 ## Benchmark
 
 | Model         | Accuracy | Average inference time |
-| ------ -------| -------- | ---------------------- |
+|---------------|----------|------------------------|
 |  Baseline LR  |   94%    |         0.001 s        |  
-|  Improved LR  |  96%     |         0.008 s        |
+|  Improved LR  |   96%    |         0.008 s        |
 
 ## Note
 If Github won't load Jupyter notebooks copy the github link
